@@ -4,3 +4,22 @@ git is very important
 git git git
 git ni ma
 git power
+git config -- global user.name
+git config -- global user.email
+git init
+vi filename
+git add filename
+git commit -m explain
+git diff filename
+git reset -- hard HEAD^
+git log
+git log --pretty=oneline
+git reflog
+git reset -- hard commitid
+git checkout -- filename
+git reset HEAD filename
+git rm filename
+git commit -m explain
+ssh-keygen -t rsa -C"email"
+git remote add origin url
+git push -u origin master
